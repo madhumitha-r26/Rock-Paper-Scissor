@@ -9,7 +9,7 @@ Created on Mon Jun 10 20:52:35 2024
 import random
 
 
-player = input("R for Rock, R for paper, S for scissor:")
+player = input("R for Rock, P for paper, S for scissor:")
 choose = ["R","P","S"]
 computer=random.choice(choose)
 print(f'your choice {player} <=> opponent {computer}')
