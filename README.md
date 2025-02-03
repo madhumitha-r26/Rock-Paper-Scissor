@@ -3,9 +3,9 @@
 This is a simple project developed using python programming language in which the user can play rock, paper, scissor game with the system.
 
 Here the user can enter either of the three choices:
-- R for Rock 
-- P for paper
-- S for scissor
+1. R for Rock 
+2. P for Paper
+3. S for Scissor
 
 whereas,
 - R beats S
